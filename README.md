@@ -1,5 +1,5 @@
 # AW-t-SNE
-The test data, code and detailed description of the AW t-SNE algorithm
+The test data, code and result of the AW t-SNE algorithm
 
 # Structure of the folder
 ## Datasets: This folder contains two datasets, the MNIST dataset and the medical record dataset.
