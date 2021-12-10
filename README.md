@@ -4,10 +4,10 @@ The test data, code and result of the AW t-SNE algorithm
 # Structure of the folder
 ## Datasets: This folder contains two datasets, the MNIST dataset and the medical record dataset.
 ### MNIST dataset:We selected two easily misidentified digits, 4 and 9, based on the digit labels to form the new dataset(mnist_data(1000) and mnist_data(2000)):
-    mnist_data(1000)：mnist_data(1000) contains a total of 1000 groups of data, each consisting of 784 data point attributes and 1 label attribute.
-    mnist_data(2000)：mnist_data(2000) contains a total of 1000 groups of data, each consisting of 784 data point attributes and 1 label attribute.
-    handled_mnist_data(1000)：the dataset obtained by binarising mnist_data(1000).
-    handled_mnist_data(2000)：the dataset obtained by binarising mnist_data(2000).
+    * mnist_data(1000)：mnist_data(1000) contains a total of 1000 groups of data, each consisting of 784 data point attributes and 1 label attribute.
+    * mnist_data(2000)：mnist_data(2000) contains a total of 1000 groups of data, each consisting of 784 data point attributes and 1 label attribute.
+    * handled_mnist_data(1000)：the dataset obtained by binarising mnist_data(1000).
+    * handled_mnist_data(2000)：the dataset obtained by binarising mnist_data(2000).
     
 ### Medical Record dataset:A total of 13 attributes are included:
     medical record_data：This is our origin medical record data, which contains 13 attributes, namely LOH, COG, AGE, TOO, SDH, LSH, CEH, TCH, CWM, COD, CLH, CCT, CCM
