@@ -20,7 +20,8 @@ The test data, code and detailed description of the AW t-SNE algorithm
     entrophy weight method.py：This is the code for calculating the weights of the data matrix by the entrophy weight method.
     PSO(MNIST).py：This is the code to calculate the optimal weights of the MNIST data matrix by the PSO algorithm.
     PSO(Medical Record).py：This is the code to calculate the optimal weights of the Medical Record data matrix by the PSO algorithm.
-    t-SNE.py：This is the code for the t-SNE dimensionality reduction algorithm.
+    t-SNE(MNIST).py：This is the code for the t-SNE dimensionality reduction algorithm of MNIST data.
+    t-SNE(medical record).py：This is the code for the t-SNE dimensionality reduction algorithm of Medical Record data.
     AW t-SNE(Medical Record).py：This is the code for the t-SNE algorithm for dimensionality reduction of Medical Record data.
     AW t-SNE(MNIST).py：This is the code for the t-SNE algorithm for dimensionality reduction of MNIST data.
     
